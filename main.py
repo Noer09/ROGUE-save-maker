@@ -61,8 +61,7 @@ def main():
             "n=0"
         "}")
 
-    print(save,"L=")
-
+    print(save+",L="+str(len(save)))
 
 if __name__ == "__main__":
     main()
